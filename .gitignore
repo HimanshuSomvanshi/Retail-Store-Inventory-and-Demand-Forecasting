@@ -1,0 +1,29 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Build and packaging artifacts
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter artifacts
+.ipynb_checkpoints/
+
+# Logs and local runtime files
+*.log
+*.tmp
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+
+# Project generated data outputs
+data/processed data/
